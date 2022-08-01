@@ -8,6 +8,7 @@
 - 📫 How to reach me **susana.esparza1213@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+http://www.linkedin.com/in/SusanaER
 <p align="left">
 </p>
 
