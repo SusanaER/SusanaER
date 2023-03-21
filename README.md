@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Susana Esparza</h1>
 <h3 align="center">A passionate software developer from Mexico</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **HTML, CSS,.NET, C#, JAVA, MySQL**
 
