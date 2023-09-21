@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Susana Esparza</h1>
 <h3 align="center">A passionate software developer from Mexico</h3>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **HTML, CSS,.NET, C#, JAVA, MySQL**
+- 💬 Ask me about **.NET, C#, JAVA, MySQL, HTML, CSS, SQLServer**
 
 - 📫 How to reach me **susana.esparza1213@gmail.com**
 
